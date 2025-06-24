@@ -27,19 +27,3 @@ You have multiple ways to edit and enhance this project depending on your workfl
 
 ---
 
-### 💻 Option 2: Local Development (Using Your IDE)
-
-For full control and local testing:
-
-```bash
-# Step 1: Clone the repository using your Git URL
-git clone <YOUR_GIT_URL>
-
-# Step 2: Enter the project folder
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install dependencies
-npm install
-
-# Step 4: Run the development server with hot-reloading
-npm run dev
